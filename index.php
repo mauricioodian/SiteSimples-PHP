@@ -47,7 +47,7 @@
 <div class="container">
   <div class="row pt-3">
     <div class="col-sm">
-        <h1 class="mt-5">Hospedado no Azure !!!</h1>
+        <h1 class="mt-5">Hospedado !!!</h1>
         <p class="lead">
             Este é um exemplo simples usando PHP e Bootstrap. <br>
             Para verificar informações do PHP instalado, clique em: <a href="./phpinfo.php">phpinfo()</a>
