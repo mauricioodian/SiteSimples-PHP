@@ -88,7 +88,7 @@
       </li>
       <li class="ms-3">
         <a class="text-body-secondary" href="#">
-            <img src="https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338507_1280.png" alt="facebook" width="30px" height="30px">
+            <img src="https://img.freepik.com/fotos-premium/logotipo-do-facebook_1080029-107.jpg?semt=ais_hybrid&w=740" alt="facebook" width="30px" height="30px">
         </a>
       </li>
       <li class="ms-3">
